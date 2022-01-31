@@ -1,0 +1,30 @@
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 20px;
+    border-radius: 20%;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+}
+
+.button:hover {
+    background-color: #127a16;
+}
+
+input[type=password], input[type=text]{
+    size: 14px;
+    width: 240px;
+    height: 22px;
+}
+
+input[type=password]:focus , input[type=text]:focus{
+    border: 3px solid #100f0f;
+}
+
+
+
+
