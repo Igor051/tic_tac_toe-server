@@ -2,11 +2,12 @@
   "name": "tic_tac",
   "version": "1.0.0",
   "dependencies": {
+    "email-validator": "^2.0.4",
     "express": "^4.17.2",
+    "isemail": "^3.2.0",
     "mongoose": "^6.1.7",
     "password-validator": "^5.2.1",
-    "email-validator": "^2.0.4",
-    "isemail": "^3.2.0"
+    "socket.io": "^4.4.1"
   },
   "devDependencies": {
     "cors": "^2.8.5"
